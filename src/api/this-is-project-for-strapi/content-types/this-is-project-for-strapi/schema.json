@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "this_is_project_for_strapis",
+  "info": {
+    "singularName": "this-is-project-for-strapi",
+    "pluralName": "this-is-project-for-strapis",
+    "displayName": "This is project for strapi"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hai": {
+      "type": "string"
+    }
+  }
+}
